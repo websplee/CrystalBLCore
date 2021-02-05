@@ -1,0 +1,9 @@
+G:\Code\Projects\CrystalBLCore\CrystalBLCore\obj\Release\netcoreapp3.1\CrystalBLCore.csprojAssemblyReference.cache
+G:\Code\Projects\CrystalBLCore\CrystalBLCore\obj\Release\netcoreapp3.1\CrystalBLCore.AssemblyInfoInputs.cache
+G:\Code\Projects\CrystalBLCore\CrystalBLCore\obj\Release\netcoreapp3.1\CrystalBLCore.AssemblyInfo.cs
+G:\Code\Projects\CrystalBLCore\CrystalBLCore\obj\Release\netcoreapp3.1\CrystalBLCore.csproj.CoreCompileInputs.cache
+G:\Code\Projects\CrystalBLCore\CrystalBLCore\bin\Release\netcoreapp3.1\CrystalBLCore.deps.json
+G:\Code\Projects\CrystalBLCore\CrystalBLCore\bin\Release\netcoreapp3.1\CrystalBLCore.dll
+G:\Code\Projects\CrystalBLCore\CrystalBLCore\bin\Release\netcoreapp3.1\CrystalBLCore.pdb
+G:\Code\Projects\CrystalBLCore\CrystalBLCore\obj\Release\netcoreapp3.1\CrystalBLCore.dll
+G:\Code\Projects\CrystalBLCore\CrystalBLCore\obj\Release\netcoreapp3.1\CrystalBLCore.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalBLCore", "CrystalBLCore\CrystalBLCore.csproj", "{2245E273-0E2D-441D-921B-9DA2C724EA29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2245E273-0E2D-441D-921B-9DA2C724EA29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2245E273-0E2D-441D-921B-9DA2C724EA29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2245E273-0E2D-441D-921B-9DA2C724EA29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2245E273-0E2D-441D-921B-9DA2C724EA29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54F56924-9C8F-4056-86D4-34B140D97432}
+	EndGlobalSection
+EndGlobal

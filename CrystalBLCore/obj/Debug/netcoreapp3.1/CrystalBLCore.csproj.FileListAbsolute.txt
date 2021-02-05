@@ -1,0 +1,4 @@
+G:\Code\Projects\CrystalBLCore\CrystalBLCore\obj\Debug\netcoreapp3.1\CrystalBLCore.csprojAssemblyReference.cache
+G:\Code\Projects\CrystalBLCore\CrystalBLCore\obj\Debug\netcoreapp3.1\CrystalBLCore.AssemblyInfoInputs.cache
+G:\Code\Projects\CrystalBLCore\CrystalBLCore\obj\Debug\netcoreapp3.1\CrystalBLCore.AssemblyInfo.cs
+G:\Code\Projects\CrystalBLCore\CrystalBLCore\obj\Debug\netcoreapp3.1\CrystalBLCore.csproj.CoreCompileInputs.cache
